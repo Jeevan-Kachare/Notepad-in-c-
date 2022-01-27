@@ -1,2 +1,2 @@
-# Notepad-in-c-
+# Notepad-in-c#
 Notepad 
