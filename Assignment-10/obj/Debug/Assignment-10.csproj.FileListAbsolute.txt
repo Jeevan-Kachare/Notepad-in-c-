@@ -1,0 +1,9 @@
+G:\CDAC\7.NET\Programme\Assignment-10\Assignment-10\bin\Debug\Assignment-10.exe.config
+G:\CDAC\7.NET\Programme\Assignment-10\Assignment-10\bin\Debug\Assignment-10.exe
+G:\CDAC\7.NET\Programme\Assignment-10\Assignment-10\bin\Debug\Assignment-10.pdb
+G:\CDAC\7.NET\Programme\Assignment-10\Assignment-10\obj\Debug\Assignment-10.csprojResolveAssemblyReference.cache
+G:\CDAC\7.NET\Programme\Assignment-10\Assignment-10\obj\Debug\Assignment_10.Form1.resources
+G:\CDAC\7.NET\Programme\Assignment-10\Assignment-10\obj\Debug\Assignment_10.Properties.Resources.resources
+G:\CDAC\7.NET\Programme\Assignment-10\Assignment-10\obj\Debug\Assignment-10.csproj.GenerateResource.Cache
+G:\CDAC\7.NET\Programme\Assignment-10\Assignment-10\obj\Debug\Assignment-10.exe
+G:\CDAC\7.NET\Programme\Assignment-10\Assignment-10\obj\Debug\Assignment-10.pdb
